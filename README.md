@@ -9,14 +9,14 @@ This repository contains all materials and data used in the study:
 - **M3gnet-relaxed structure.zip**  
   Contains CIF files of structures relaxed using the M3GNet interatomic potential.
 
-- **Data_All.odt**  
+- **Data_All.ods**  
   Contains all data generated using the trained MEGNet and M3GNet models, including:  
   - Composition  
   - Formation energy (MEGNet, eV/atom)  
   - Lattice parameter (a) predicted by M3GNet  
   - Gravimetric capacity (wt%)
 
-- **DATA_DFT.odt**  
+- **DATA_DFT.ods**  
   Contains DFT-computed data, including:  
   - Composition  
   - Formation energy (MEGNet prediction)  
