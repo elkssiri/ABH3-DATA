@@ -6,6 +6,9 @@ This repository contains all materials and data used in the study:
 
 ## Repository Contents
 
+- **M3gnet-relaxed structure.zip**  
+  Contains CIF files of structures relaxed using the M3GNet interatomic potential.
+
 - **Data_All.odt**  
   Contains all data generated using the trained MEGNet and M3GNet models, including:  
   - Composition  
